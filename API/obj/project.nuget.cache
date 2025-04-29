@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uf8eUuVQvIs=",
+  "dgSpecHash": "9t5zpyxXpHw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lehlonolo\\Desktop\\chat\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Lehlonolo\\Desktop\\chat\\Real-Time-Chat-App\\client\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lehlonolo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lehlonolo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
